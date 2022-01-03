@@ -1,0 +1,6 @@
+/home/fusedev/RiderProjects/Connect flood/Connect flood/bin/Debug/Connect_flood.exe
+/home/fusedev/RiderProjects/Connect flood/Connect flood/bin/Debug/Connect_flood.pdb
+/home/fusedev/RiderProjects/Connect flood/Connect flood/obj/Debug/Connect flood.csproj.AssemblyReference.cache
+/home/fusedev/RiderProjects/Connect flood/Connect flood/obj/Debug/Connect flood.csproj.CoreCompileInputs.cache
+/home/fusedev/RiderProjects/Connect flood/Connect flood/obj/Debug/Connect_flood.exe
+/home/fusedev/RiderProjects/Connect flood/Connect flood/obj/Debug/Connect_flood.pdb
